@@ -26,7 +26,7 @@ st.write(content2)
 
 col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
 
-df = pd.read_csv("data.csv", sep=";")
+df = pd.read_csv("data.csv")
 with col3:
     for index, row in df[:10].iterrows():
         st.header(row["title"])

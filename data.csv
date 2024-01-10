@@ -1,21 +1,21 @@
-title,description,url,image
-Todo App,A distraction-free web app to help you focus on creating and completing tasks.,https://github.com/python-dev-og/my-todo-app,1.png
-Portfolio Website,A website built entirely in Python to showcase coding projects and apps.,https://github.com/python-dev-og/portfolio-app,2.png
-PDF Templates,A script that generates PDF templates of multiple pages given some predefined guidelines.,https://github.com/python-dev-og/pdf-template.git,3.png
-PDF Invoices,A script that reads invoice records from Excel files and automatically generates PDF invoices.,https://github.com/python-dev-og/textfiles-pdf.git,4.png
-Positive News Site,A website that gets data from a news API and uses sentiment analysis to publish only positive news.,https://github.com/python-dev-og/api-news-by-email.git,5.png
-Weather API,A REST API built with Python and Flask to serve historical weather data for various cities.,https://github.com/python-dev-og/weather-api.git,6.png
-Download Cleaner,A script that monitors the Downloads folder and deletes old files keeping the folder clean.,https://github.com/python-dev-og/weather-forecast-dashboard.git,7.png
-Tour Scraper,A program that checks a music band's website and sends an email when there are new tours.,https://github.com/python-dev-og/NLP-book-analysis.git,8.png
-Helper Chatbot,A chatbot that knows about a specific topic and answers questions regarding that topic.,https://github.com/python-dev-og/Email-Webcam-Object-Detection.git,9.png
-Open Domain Chatbot,A chatbot built that can discuss anything with a human and is built using the Facebook API.,https://github.com/python-dev-og/web-scraping.git,10.png
-Webcam Motion Detector,A program that monitors the computer webcam and sends an email when a new object enters the view.,https://github.com/python-dev-og/hotel-booking-app.git,11.png
-Typing Analyzer,A program that monitors the computer keyboard and returns the most typed words of the session.,https://github.com/python-dev-og/super-mario-python.git,12.png
-Internet Speed Analysis,A program that records the internet speed every few seconds and plots the values on the browser.,https://github.com/python-dev-og/student-mgt-sys.git,13.png
-Monitoring Data,A program that monitors a particular website and periodically records the data to a remote server.,https://github.com/python-dev-og/students-mgt-sys-mysql.git,14.png
-Visualizing Data,A program that visualizes the data collected in the previous monitoring program. ,https://github.com/python-dev-og/chatbot-chatgpt.git,15.png
-Visualizing Weather Forecast,A data web app that visualizes the weather forecast for the next five days of any city.,https://github.com/python-dev-og/job-app-form-flask.git,16.png
-Student Management System,A desktop PyQt6 GUI app for managing university student data with an SQL database backend.,https://github.com/python-dev-og/job-app-form-django.git,17.png
-School Management System,A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.,https://github.com/python-dev-og/Restaurant-webapp-django.git,18.png
-Restaurant Menu Web App,A Django web app to let customers see a restaurant menu and meal availability.,https://github.com/python-dev-og/movie-recommendation-system.git,19.png
-Online Store,A Django online store app where users can place orders and sellers can manage them.,https://github.com/python-dev-og/python-package.git,20.png
+title,description,url,image,
+Todo App,A distraction-free web app to help you focus on creating and completing tasks.,https://github.com/python-dev-og/my-todo-app,1.png,
+Portfolio Website,A website built entirely in Python Streamlit to showcase coding projects and apps.,https://github.com/python-dev-og/portfolio-app,2.png,
+PDF Templates,A script that generates PDF templates of multiple pages given some predefined guidelines.,https://github.com/python-dev-og/pdf-template.git,3.png,
+PDF Invoices,A script that reads invoice records from Excel files and automatically generates PDF invoices.,https://github.com/python-dev-og/textfiles-pdf.git,4.png,
+News By Email,A website that gets data from a news API and uses sentiment analysis to publish news.,https://github.com/python-dev-og/api-news-by-email.git,5.png,
+Weather API,A REST API built with Python and Flask to serve historical weather data for various cities.,https://github.com/python-dev-og/weather-api.git,6.png,
+Weather Forecast Data App,A data web app that visualizes the weather forecast for the next five days of any city.,https://github.com/python-dev-og/weather-forecast-dashboard.git,7.png,
+Book Analysis,A python Natural Language Processing app use to detect emotions in a book,https://github.com/python-dev-og/NLP-book-analysis.git,8.png,
+Webcam Motion Detector,A program that monitors the computer webcam and sends an email when a new object enters the view.,https://github.com/python-dev-og/Email-Webcam-Object-Detection.git,9.png,
+Web_Scraping Music Events,A program that checks a music band's website and sends an email when there are new tours.,https://github.com/python-dev-og/web-scraping.git,10.png,
+Hotel Booking App,A python Hotel Booking website,https://github.com/python-dev-og/hotel-booking-app.git,11.png,
+Mario Game,Mario Game,https://github.com/python-dev-og/super-mario-python.git,12.png,
+SQLITE Student Management System,A desktop PyQt6 GUI app for managing university student data with an SQLITE database backend.,https://github.com/python-dev-og/student-mgt-sys.git,13.png,
+MySQL Student Management System,A desktop PyQt6 GUI app for managing complex university data with an MySQL database backend.,https://github.com/python-dev-og/students-mgt-sys-mysql.git,14.png,
+CHATGPT OpenAI Chatbot,A chatbot built that can discuss anything with a human and is built using the OpenAI ChatGPT API and PYQT Chatbot.,https://github.com/python-dev-og/chatbot-chatgpt.git,15.png,
+Flask Job application Form,A python web_based application for job application form using Flask framework,https://github.com/python-dev-og/job-app-form-flask.git,16.png,
+Django Job Application Form,A python web_based application for job application form using Django framework,https://github.com/python-dev-og/job-app-form-django.git,17.png,
+Django Restaurant App,A Django web app to let customers see a restaurant menu and meal availability.,https://github.com/python-dev-og/Restaurant-webapp-django.git,18.png,
+Movie Recommendation System,A python application using Machine learning to recommend movies based on previous selections,https://github.com/python-dev-og/movie-recommendation-system.git,19.png,
+Python App Packaging ,The process of packaging a portable python application for deployment ,https://github.com/python-dev-og/python-package.git,20.png,
